@@ -13,6 +13,9 @@
     Android Engineer with 8+ years of experience across various companies (startups to engineering lead globally). 
     <br>
      Currently Android Developer at <a href="https://github.com/shortcut">Shortcut AS</a>, Previously at <a href="https://github.com/tidal-music">Tidal Music</a> / <a href="https://github.com/tidal-engineering">Tidal Engineering</a> / <a href="https://github.com/block">Block</a> 
+
+
+
     <br> 
   </samp>
 </p>
