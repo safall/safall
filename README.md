@@ -26,5 +26,6 @@
 <p>
   <samp>
     Key highlights of Safal's career include presenting TIDAL’s Homepage Revamp project at droidcon Berlin 2024. This opportunity to engage with the global Android community reflects his enthusiasm for both innovation and knowledge sharing.
+    Checkout the video <a href="https://www.droidcon.com/2024/08/30/remixing-tidal-app-with-jetpack-compose/">here</a> 
   </samp>
 </p>
