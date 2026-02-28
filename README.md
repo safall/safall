@@ -3,7 +3,7 @@ Hey, I’m Safal 👋
 
 Android Engineer with 9+ years of experience building high-quality mobile products in fast-moving teams — from startups to global engineering orgs.
 
-📱 Currently: Android Developer at [Shortcut AS](https://github.com/shortcut)
+📱 Currently: Android Developer 
 
 🏢 Previously: [TIDAL Music](https://github.com/tidal-music) / 
 [TIDAL Engineering](https://github.com/tidal-engineering) / 
